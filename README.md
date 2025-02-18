@@ -1,0 +1,2 @@
+**ArcGIS Web Server Data Retriever**  
+A comprehensive tool for retrieving all available data from an ArcGIS web server. Interaction with ArcGIS REST APIs, automating the extraction of geospatial data with support for pagination, query customization, and bulk downloads. Designed for efficiency and scalability, it simplifies accessing, processing, and managing spatial datasets from ArcGIS web services.
